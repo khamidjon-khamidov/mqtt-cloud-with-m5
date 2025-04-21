@@ -1,0 +1,88 @@
+rdadmin@vmi1962085:~$ mosquitto_sub -h localhost -t projekt-ulesanne__hazi-feladat_2025-spring-its8050 -u rdadmin -P 'Mosque2024@'
+Hello, world! #6
+Hello, world! #0
+Hello, world! #0
+Hello, world! #2
+Hello, world! #4
+Hello, world! #4
+Hello, world! #6
+Hello, world! #6
+Hello, world! #8
+Hello, world! #8
+Hello, world! #9
+Hello, world! #10
+Hello, world! #10
+Hello, world! #12
+Hello, world! #12
+Hello, world! #14
+Hello, world! #14
+Hello, world! #16
+
+
+
+Sketch uses 691481 bytes (52%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 44640 bytes (13%) of dynamic memory, leaving 283040 bytes for local variables. Maximum is 327680 bytes.
+esptool.py v4.5.1
+Serial port /dev/cu.usbmodem1101
+Connecting...
+Chip is ESP32-S3 (revision v0.2)
+Features: WiFi, BLE
+Crystal is 40MHz
+MAC: 48:ca:43:39:ae:f8
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00000000 to 0x00003fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+Flash will be erased from 0x0000e000 to 0x0000ffff...
+Flash will be erased from 0x00010000 to 0x000b8fff...
+Compressed 15104 bytes to 10401...
+Writing at 0x00000000... (100 %)
+Wrote 15104 bytes (10401 compressed) at 0x00000000 in 0.3 seconds (effective 472.0 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 146...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (146 compressed) at 0x00008000 in 0.1 seconds (effective 384.1 kbit/s)...
+Hash of data verified.
+Compressed 8192 bytes to 47...
+Writing at 0x0000e000... (100 %)
+Wrote 8192 bytes (47 compressed) at 0x0000e000 in 0.1 seconds (effective 612.7 kbit/s)...
+Hash of data verified.
+Compressed 691840 bytes to 446227...
+Writing at 0x00010000... (3 %)
+Writing at 0x0001bd7d... (7 %)
+Writing at 0x00028bfa... (10 %)
+Writing at 0x00032ef3... (14 %)
+Writing at 0x00038f04... (17 %)
+Writing at 0x0003e466... (21 %)
+Writing at 0x000439a7... (25 %)
+Writing at 0x00048a57... (28 %)
+Writing at 0x0004d7ab... (32 %)
+Writing at 0x00052796... (35 %)
+Writing at 0x0005754f... (39 %)
+Writing at 0x0005c489... (42 %)
+Writing at 0x000617eb... (46 %)
+Writing at 0x000669cf... (50 %)
+Writing at 0x0006c604... (53 %)
+Writing at 0x00071548... (57 %)
+Writing at 0x00076496... (60 %)
+Writing at 0x0007b585... (64 %)
+Writing at 0x00080981... (67 %)
+Writing at 0x00085c92... (71 %)
+Writing at 0x0008b128... (75 %)
+Writing at 0x00090f65... (78 %)
+Writing at 0x000965c2... (82 %)
+Writing at 0x0009eb4d... (85 %)
+Writing at 0x000a6f5f... (89 %)
+Writing at 0x000ac320... (92 %)
+Writing at 0x000b1b3f... (96 %)
+Writing at 0x000b7637... (100 %)
+Wrote 691840 bytes (446227 compressed) at 0x00010000 in 4.7 seconds (effective 1175.6 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+
